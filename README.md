@@ -5,10 +5,10 @@ A modern **society-only food delivery web application** designed to provide a fa
 ---
 
 ## 🚀 Live Demo
-🔗 Add your deployed link here
+🔗 https://rasoirun.vercel.app/
 
 ## 📂 GitHub Repository
-🔗 Add your repository link here
+🔗 https://github.com/alwaysashumishra/Rasoi.Run
 
 ---
 
